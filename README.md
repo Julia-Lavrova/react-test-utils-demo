@@ -1,3 +1,7 @@
+# Create-react-app with testing library 
+
+I'm trying to use testing library in a project. Some examples of testing.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
